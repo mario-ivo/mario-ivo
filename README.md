@@ -1,11 +1,17 @@
 ### Olá meu nome é Mário Ivo ! 👋
 
+##
+
 - 🔭 Atualmente estou trabalhando com Web Desenvolvimento 
 - 🌱 Atualmente estou me especializando na linguagem Python 🐍
 - ⚡ Um fato sobre mim: 
 
+##
+
 <div style="width:100%;">
   <img height="10%" width="57%" src="https://github-readme-stats.vercel.app/api?username=mario-ivo&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+</div>
+<div>
   <img height="10%" width="41%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario-ivo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
