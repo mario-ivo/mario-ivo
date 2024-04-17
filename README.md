@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente estou trabalhando com Web Desenvolvimento 
 - 🌱 Atualmente estou me especializando na linguagem Python 🐍
-- ⚡ Um fato sobre mim: 
 
 ##
 
